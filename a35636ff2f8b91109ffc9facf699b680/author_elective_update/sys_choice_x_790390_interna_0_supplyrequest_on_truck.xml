@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="on_truck" table="x_790390_interna_0_supplyrequest" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>on_truck</element>
+            <name>x_790390_interna_0_supplyrequest</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-16 00:10:53</sys_created_on>
+            <sys_name>on_truck</sys_name>
+            <sys_package display_value="International Refugees" source="x_790390_interna_0">a35636ff2f8b91109ffc9facf699b680</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</sys_scope>
+            <sys_update_name>sys_choice_x_790390_interna_0_supplyrequest_on_truck</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>on_truck</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Blue Toyota</label>
+            <language>en</language>
+            <name>x_790390_interna_0_supplyrequest</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-16 00:10:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>blue_toyota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>on_truck</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Land Rover 1</label>
+            <language>en</language>
+            <name>x_790390_interna_0_supplyrequest</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-16 00:10:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>land_rover_1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>on_truck</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Red Ford</label>
+            <language>en</language>
+            <name>x_790390_interna_0_supplyrequest</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-16 00:10:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>red_ford</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>on_truck</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Silver Ford</label>
+            <language>en</language>
+            <name>x_790390_interna_0_supplyrequest</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-16 00:10:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>silver_ford</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

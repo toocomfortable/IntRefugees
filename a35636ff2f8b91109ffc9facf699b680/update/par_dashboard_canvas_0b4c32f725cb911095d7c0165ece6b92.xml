@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="International Refugees Request Supplies Overview">474c32f70fcb9110523817d053ae148d</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 00:22:30</sys_created_on>
+        <sys_id>0b4c32f725cb911095d7c0165ece6b92</sys_id>
+        <sys_name/>
+        <sys_package display_value="International Refugees" source="x_790390_interna_0">a35636ff2f8b91109ffc9facf699b680</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</sys_scope>
+        <sys_update_name>par_dashboard_canvas_0b4c32f725cb911095d7c0165ece6b92</sys_update_name>
+    </par_dashboard_canvas>
+</record_update>

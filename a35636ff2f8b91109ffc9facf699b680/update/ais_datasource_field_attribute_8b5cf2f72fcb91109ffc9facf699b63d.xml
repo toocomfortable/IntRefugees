@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource display_value="SupplyRequest Table">be5cb2f72fcb91109ffc9facf699b6b6</datasource>
+        <field>sys_updated_on</field>
+        <source>x_790390_interna_0_supplyrequest</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 00:22:46</sys_created_on>
+        <sys_id>8b5cf2f72fcb91109ffc9facf699b63d</sys_id>
+        <sys_name>x_790390_interna_0_supplyrequest.sys_updated_on</sys_name>
+        <sys_package display_value="International Refugees" source="x_790390_interna_0">a35636ff2f8b91109ffc9facf699b680</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_8b5cf2f72fcb91109ffc9facf699b63d</sys_update_name>
+        <value>sort_by_date</value>
+    </ais_datasource_field_attribute>
+</record_update>

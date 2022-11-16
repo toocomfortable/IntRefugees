@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for International Refugees generated</description>
+        <name>view</name>
+        <page display_value="International Refugees">4f4c32f726cb91101dc964244d86318d</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 00:22:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>074c32f71dcb9110c3df07785afc1491</sys_id>
+        <sys_name>view</sys_name>
+        <sys_package display_value="International Refugees" source="x_790390_interna_0">a35636ff2f8b91109ffc9facf699b680</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</sys_scope>
+        <sys_update_name>sys_ux_page_property_074c32f71dcb9110c3df07785afc1491</sys_update_name>
+        <type>string</type>
+        <unique_name>x_790390_interna_0.4f4c32f726cb91101dc964244d86318d.root.view</unique_name>
+        <value>Workspace-International-Refugees-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=074c32f71dcb9110c3df07785afc1491"/>
+</record_update>

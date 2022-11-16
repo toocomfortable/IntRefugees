@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="International Refugees search profile">4b4c32f727cb9110ce71cd7684a28c93</profile>
+        <search_source display_value="SupplyRequest">b65cf2f72fcb91109ffc9facf699b611</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 00:22:45</sys_created_on>
+        <sys_id>b65cf2f72fcb91109ffc9facf699b614</sys_id>
+        <sys_name>International Refugees search profile.SupplyRequest</sys_name>
+        <sys_package display_value="International Refugees" source="x_790390_interna_0">a35636ff2f8b91109ffc9facf699b680</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_b65cf2f72fcb91109ffc9facf699b614</sys_update_name>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

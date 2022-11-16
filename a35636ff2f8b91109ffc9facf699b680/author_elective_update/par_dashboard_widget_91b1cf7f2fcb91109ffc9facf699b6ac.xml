@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">034c32f748cb91100632b837a9d75e8e</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"configVersion":"22.1.7","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"SupplyRequest","sourceType":"table","tableOrViewName":"x_790390_interna_0_supplyrequest","id":"dGFibGV4Xzc5MDM5MF9pbnRlcm5hXzBfc3VwcGx5cmVxdWVzdDE2Njg1NTkyOTE2MjQ=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzc5MDM5MF9pbnRlcm5hXzBfc3VwcGx5cmVxdWVzdDE2Njg1NTkyOTE2MjQ=","id":"ZEdGaWJHVjRYemM1TURNNU1GOXBiblJsY201aFh6QmZjM1Z3Y0d4NWNtVnhkV1Z6ZERFMk5qZzFOVGt5T1RFMk1qUT0xNjY4NTU5MjkyODE2","aggregateFunction":"SUM","numberFormat":{"customFormat":false},"axisId":"primary","aggregateField":"cost"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 00:46:07</sys_created_on>
+        <sys_id>91b1cf7f2fcb91109ffc9facf699b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="International Refugees" source="x_790390_interna_0">a35636ff2f8b91109ffc9facf699b680</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</sys_scope>
+        <sys_update_name>par_dashboard_widget_91b1cf7f2fcb91109ffc9facf699b6ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 00:46:07</sys_updated_on>
+        <visualization/>
+        <w>4</w>
+        <x>8</x>
+        <y>2</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</application>
+        <file_path/>
+        <instance_id>ae3b5e8adb67d7403353f22ebf9619c5</instance_id>
+        <instance_name>dev67657</instance_name>
+        <name>par_dashboard_widget_91b1cf7f2fcb91109ffc9facf699b6ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">034c32f748cb91100632b837a9d75e8e</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"22.1.7","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"SupplyRequest","sourceType":"table","tableOrViewName":"x_790390_interna_0_supplyrequest","id":"dGFibGV4Xzc5MDM5MF9pbnRlcm5hXzBfc3VwcGx5cmVxdWVzdDE2Njg1NTkyOTE2MjQ=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzc5MDM5MF9pbnRlcm5hXzBfc3VwcGx5cmVxdWVzdDE2Njg1NTkyOTE2MjQ=","id":"ZEdGaWJHVjRYemM1TURNNU1GOXBiblJsY201aFh6QmZjM1Z3Y0d4NWNtVnhkV1Z6ZERFMk5qZzFOVGt5T1RFMk1qUT0xNjY4NTU5MjkyODE2","aggregateFunction":"SUM","numberFormat":{"customFormat":false},"axisId":"primary","aggregateField":"cost"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props><h>9</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-16 00:46:07</sys_created_on><sys_id>91b1cf7f2fcb91109ffc9facf699b6ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="International Refugees" source="x_790390_interna_0">a35636ff2f8b91109ffc9facf699b680</sys_package><sys_policy/><sys_scope display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</sys_scope><sys_update_name>par_dashboard_widget_91b1cf7f2fcb91109ffc9facf699b6ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-16 00:46:07</sys_updated_on><visualization/><w>4</w><x>8</x><y>2</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>2023815759</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e35636ff2f8b91109ffc9facf699b682</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 00:46:07</sys_created_on>
+        <sys_id>59b1cf7f2fcb91109ffc9facf699b6ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847de67c3a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 00:46:07</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>91b1cf7f58cb9110fcf5536309ced8ad</update_guid>
+        <update_guid_history>91b1cf7f58cb9110fcf5536309ced8ad:2023815759</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">17c1c7bf2fcb91109ffc9facf699b60d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 00:46:32</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>6190b8a5ab9948c682ed4b7d17964149</sys_id>
+        <sys_metadata>91b1cf7f2fcb91109ffc9facf699b6ac</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="International Refugees" source="x_790390_interna_0">a35636ff2f8b91109ffc9facf699b680</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</sys_scope>
+        <sys_scope_delete display_value="">44ed2ab905c541b48bd3837fd9c9b9a4</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_91b1cf7f2fcb91109ffc9facf699b6ac</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_91b1cf7f2fcb91109ffc9facf699b6ac">59b1cf7f2fcb91109ffc9facf699b6ad</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

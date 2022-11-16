@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="camp" label="Camp" language="en" table="x_790390_interna_0_supplyrequest">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>camp</element>
+            <help/>
+            <hint/>
+            <label>Camp</label>
+            <language>en</language>
+            <name>x_790390_interna_0_supplyrequest</name>
+            <plural>Camps</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-16 00:10:50</sys_created_on>
+            <sys_name>Camp</sys_name>
+            <sys_package display_value="International Refugees" source="x_790390_interna_0">a35636ff2f8b91109ffc9facf699b680</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</sys_scope>
+            <sys_update_name>sys_documentation_x_790390_interna_0_supplyrequest_camp_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

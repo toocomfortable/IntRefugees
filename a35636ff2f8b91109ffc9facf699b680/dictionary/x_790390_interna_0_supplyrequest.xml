@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eb99beb32fcb91109ffc9facf699b6a6" label="SupplyRequest" max_length="40" name="x_790390_interna_0_supplyrequest" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="azraq" label="Camp" mandatory="true" max_length="40" name="camp" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Azraq" value="azraq"/>
+                <element inactive_on_update="false" label="KAP" value="kap"/>
+                <element inactive_on_update="false" label="Mrajeeb Al Fhood" value="mrajeeb_al_fhood"/>
+                <element inactive_on_update="false" label="Zaatari" value="zaatari"/>
+            </choice>
+        </element>
+        <element label="Cost" max_length="40" name="cos0" type="string"/>
+        <element label="Cost (currency)" max_length="40" name="cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Requested" max_length="40" name="date_requested" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Loaded by" max_length="32" name="loaded_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="silver_ford" label="On Truck #" mandatory="true" max_length="40" name="on_truck" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Blue Toyota" value="blue_toyota"/>
+                <element inactive_on_update="false" label="Land Rover 1" value="land_rover_1"/>
+                <element inactive_on_update="false" label="Red Ford" value="red_ford"/>
+                <element inactive_on_update="false" label="Silver Ford" value="silver_ford"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requested By" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="requested" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="approved"/>
+                <element inactive_on_update="false" label="Delivered" sequence="1" value="delivered"/>
+                <element inactive_on_update="false" label="Denied" sequence="2" value="denied"/>
+                <element inactive_on_update="false" label="Requested" sequence="3" value="requested"/>
+                <element inactive_on_update="false" label="In Transit" sequence="4" value="in_transit"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Supplies Requested" max_length="40" name="supplies_requested" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="loaded_by"/>
+        </index>
+        <index name="index2">
+            <element name="requested_by"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

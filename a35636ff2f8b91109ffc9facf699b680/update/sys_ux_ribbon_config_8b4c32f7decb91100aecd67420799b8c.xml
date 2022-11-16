@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>International Refugees Ribbon Config</description>
+        <name>International Refugees Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 00:22:32</sys_created_on>
+        <sys_id>8b4c32f7decb91100aecd67420799b8c</sys_id>
+        <sys_name>International Refugees Ribbon Config</sys_name>
+        <sys_package display_value="International Refugees" source="x_790390_interna_0">a35636ff2f8b91109ffc9facf699b680</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="International Refugees">a35636ff2f8b91109ffc9facf699b680</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_8b4c32f7decb91100aecd67420799b8c</sys_update_name>
+    </sys_ux_ribbon_config>
+</record_update>
